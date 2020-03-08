@@ -1,1 +1,2 @@
-this is a conflict file
+this is 3rd file in master
+this is the 3rd file
